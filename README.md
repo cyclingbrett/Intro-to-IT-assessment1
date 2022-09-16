@@ -40,6 +40,7 @@
 <p><a href="https://www.16personalities.com/isfj-conclusion">https://www.16personalities.com/isfj-conclusion</a></p>
 <p><a href="https://www.gallup.com/cliftonstrengths/en/254033/strengthsfinder.aspx">https://www.gallup.com/cliftonstrengths/en/254033/strengthsfinder.aspx</a></p>
 <p><a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&amp;A=8&amp;V=9&amp;T=3">http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&amp;A=8&amp;V=9&amp;T=3</a></p>
+<p><img src="myersbriggs.jpg" alt="" /></p>
 <p>Myers Briggs Results</p>
 <p>Education Planner Assessment Results</p>
 <p>Gallup Strength Finder Results.</p>
