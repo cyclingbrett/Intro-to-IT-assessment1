@@ -42,6 +42,7 @@
 <p><a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&amp;A=8&amp;V=9&amp;T=3">http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&amp;A=8&amp;V=9&amp;T=3</a></p>
 <p><img src="myersbriggs.jpg" alt="" /></p>
 <p>Myers Briggs Results</p>
+<p><img src="Learningstyle.jpg" alt="" /></p>
 <p>Education Planner Assessment Results</p>
 <p>Gallup Strength Finder Results.</p>
 <ul>
