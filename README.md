@@ -14,6 +14,7 @@
 <h1>Ideal Job</h1>
 <p>Whilst I am currently working in a different field, if I were to be changing career paths into IT I would most likely try and aim for a manager&rsquo;s job of some description.</p>
 <p><a href="https://www.seek.com.au/job/58421490?type=standard#sol=9313ae6f12f75e13b43336b4d874bb0c71dd692c">https://www.seek.com.au/job/58421490?type=standard#sol=9313ae6f12f75e13b43336b4d874bb0c71dd692c</a></p>
+<p><img src="Jobspec.png" alt="" /></p>
 <p>The particular job I have found is titled as &ldquo;Manager Information Technology&rdquo; and reports through to the General Manager of a government agency by the name of &ldquo;MyLeave&rdquo;. As stated by MyLeave (2022) &ldquo;Construction workers accrue long service leave with MyLeave based on service to the industry - rather than service to a single employer. This is the portable nature of long service leave with MyLeave.&rdquo;</p>
 <p>The position is responsible for the development, planning, documenting and administration of the customer data base. In addition, the manager must monitor and manage the IT systems and ensure that the systems effectively contribute to organisational performance, security, and cost benefits to the business. Whilst being a manager&rsquo;s role it looks to still be quite hands-on in the way that the successful applicant must analyse, investigate, identify, and provide solutions to complex problems.</p>
 <p>The key requirements to be successful in the role are:</p>
