@@ -2,7 +2,7 @@
 <p>Introduction to Information Technology</p>
 <p>Assessment Task 1, Due 20<sup>th</sup> September 2022.</p>
 <p>Brett Russell &ndash; S3634270</p>
-<p><img src="Profile_pic1.png" alt="" /></p>
+<p><img src="Profile_Pic1.png" alt="" /></p>
 <p>Brett Russell</p>
 <p>S3634270</p>
 <p>S3634270@student.rmit.edu.au</p>
