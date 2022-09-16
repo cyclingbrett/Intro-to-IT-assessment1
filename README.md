@@ -43,6 +43,7 @@
 <p><img src="myersbriggs.jpg" alt="" /></p>
 <p>Myers Briggs Results</p>
 <p><img src="Learningstyle.jpg" alt="" /></p>
+<p><img src="Strengthfinder.png" alt="" /></p>
 <p>Education Planner Assessment Results</p>
 <p>Gallup Strength Finder Results.</p>
 <ul>
