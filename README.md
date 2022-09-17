@@ -82,6 +82,6 @@
 
 <h1>References
 
-href=https://www.picked.ai/magazine/psychometric-tests-for-recruitment-the-pros-cons/
+<p>href="https://www.picked.ai/magazine/psychometric-tests-for-recruitment-the-pros-cons/"
 
 
