@@ -80,9 +80,11 @@
 <h1>Outcome</h1>
 <p>Should the project idea be successful and implemented throughout our (or other) businesses, it would mean that we would be able to have a live snapshot available at the press of a finger to see the current status of all our vehicles and equipment, with specific detail on the overall condition of the vehicle and anything that is either requiring further inspection or potentially already deemed by the user to be unroadworthy. Having this live data available to management not only ensures that our vehicle servicing is kept up to date, but it also allows them to immediately be notified of anything that could end up being a safety risk, and therefore providing the ability for management to intervene and immediately stop a vehicle being driven or a piece of equipment being operated. Safety is our number one priority, and we want all people to return home in the same condition that they came to work each day.</p>
 
-<h1>References
+<h1>References</h1>
 
-<h6>https://www.picked.ai/magazine/psychometric-tests-for-recruitment-the-pros-cons/</h6>
+
+<p>Morris, J, 2021. &ldquo;Psychometric Tests For Recruitment: The Pros &amp; Cons&rdquo;, 14 April 2021, viewed 17 September 2022.</p>
+<p>&lt;<a href="https://www.picked.ai/magazine/psychometric-tests-for-recruitment-the-pros-cons/">https://www.picked.ai/magazine/psychometric-tests-for-recruitment-the-pros-cons/</a>&gt;</p>
 
 
 
