@@ -6,6 +6,13 @@
 <p>Brett Russell</p>
 <p>S3634270</p>
 <p>S3634270@student.rmit.edu.au</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyclingbrett&label=Profile%20views&color=0e75b6&style=flat" alt="cyclingbrett" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/brettrussell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brettrussell" height="30" width="40" /></a>
+</p>
+
 <h1>Personal Information</h1>
 <p>My name is Brett Russell, I have recently turned 44 years of age. I am married with two children and have been studying part time towards my Bachelor of Business (Supply Chain &amp; Logistics) for the past 6 years. This Intro to IT unit is actually my last unit before finishing the degree. The journey has been long but extremely rewarding and it has definitely helped me in my career. I have worked for 12 years at a Caterpillar Dealership as a manager of Supply Chain and more recently I moved into a smaller company where I was also the Supply Chain Manager, however my business studies were integral in me being promoted to General Manager 18 months ago. I love to go camping with my family to remote areas mostly within Western Australia which has some beautiful landscapes and countryside.</p>
 <h1>Interest in IT</h1>
