@@ -1,4 +1,4 @@
-# Intro-to-IT-assessment1
+# Intro to IT-assessment 1
 <p>Introduction to Information Technology</p>
 <p>Assessment Task 1, Due 20<sup>th</sup> September 2022.</p>
 <p>Brett Russell &ndash; S3634270</p>
