@@ -7,6 +7,9 @@
 <p>S3634270</p>
 <p>S3634270@student.rmit.edu.au</p>
 <h1>Personal Information</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <p>My name is Brett Russell, I have recently turned 44 years of age. I am married with two children and have been studying part time towards my Bachelor of Business (Supply Chain &amp; Logistics) for the past 6 years. This Intro to IT unit is actually my last unit before finishing the degree. The journey has been long but extremely rewarding and it has definitely helped me in my career. I have worked for 12 years at a Caterpillar Dealership as a manager of Supply Chain and more recently I moved into a smaller company where I was also the Supply Chain Manager, however my business studies were integral in me being promoted to General Manager 18 months ago. I love to go camping with my family to remote areas mostly within Western Australia which has some beautiful landscapes and countryside.</p>
 <h1>Interest in IT</h1>
 <p>Whilst this unit is not necessarily the start of a career in IT for me, I have always had an interest in IT first taking on computer studies in year 11 &amp; 12 (1994 &amp; 1995), which post high school graduation saw me take on a course at TAFE (1996), which involved basic computer programming at a time when learning DOS commands was still the way to navigate a system.</p>
