@@ -84,12 +84,16 @@
 
 <p>Gallup, 2022. &ldquo;CliftonStrengths for Teams and Managers&rdquo;, n.d., viewed 17 September 2022.</p>
 <p>&lt;<a href="https://www.gallup.com/cliftonstrengths/en/253832/cliftonstrengths-for-teams.aspx">https://www.gallup.com/cliftonstrengths/en/253832/cliftonstrengths-for-teams.aspx</a>&gt;</p>
+
 <p>WA.gov.au, 2022. &ldquo;MyLeave &ndash; Construction Long Service Board&rdquo;, 26 August 2022, viewed 12 September 2022.</p>
 <p>&lt;<a href="https://www.wa.gov.au/organisation/myleave-construction-long-service-board">https://www.wa.gov.au/organisation/myleave-construction-long-service-board</a>&gt;</p>
+
 <p>Microsoft, 2022. &ldquo;Site template JSON schema&rdquo;, 8<sup>th</sup> September 2022, viewed 12 September 2022.</p>
 <p>&lt;<a href="https://learn.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-json-schema">https://learn.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-json-schema</a>&gt;</p>
+
 <p>Morris, J, 2021. &ldquo;Psychometric Tests For Recruitment: The Pros &amp; Cons&rdquo;, 14 April 2021, viewed 17 September 2022.</p>
 <p>&lt;<a href="https://www.picked.ai/magazine/psychometric-tests-for-recruitment-the-pros-cons/">https://www.picked.ai/magazine/psychometric-tests-for-recruitment-the-pros-cons/</a>&gt;</p>
+
 
 
 
