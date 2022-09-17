@@ -82,5 +82,5 @@
 
 <h1>References
 
-<p><a https://www.picked.ai/magazine/psychometric-tests-for-recruitment-the-pros-cons/</a</p>
+<p><a https://www.picked.ai/magazine/psychometric-tests-for-recruitment-the-pros-cons/</a></p>
 
