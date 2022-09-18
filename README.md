@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 # Intro to IT - Assessment 1
 <p>Introduction to Information Technology</p>
 <p>Assessment Task 1, Due 20<sup>th</sup> September 2022.</p>
@@ -100,8 +103,8 @@
 
 <p>Morris, J, 2021. &ldquo;Psychometric Tests For Recruitment: The Pros &amp; Cons&rdquo;, 14 April 2021, viewed 17 September 2022.</p>
 <p>&lt;<a href="https://www.picked.ai/magazine/psychometric-tests-for-recruitment-the-pros-cons/">https://www.picked.ai/magazine/psychometric-tests-for-recruitment-the-pros-cons/</a>&gt;</p>
-
-
+</body>
+</html>
 
 
 
