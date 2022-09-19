@@ -97,7 +97,7 @@
 <p>&lt;<a href="https://learn.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-json-schema">https://learn.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-json-schema</a>&gt;</p>
 <p>Morris, J, 2021. &ldquo;Psychometric Tests For Recruitment: The Pros &amp; Cons&rdquo;, 14 April 2021, viewed 17 September 2022.</p>
 <p>&lt;<a href="https://www.picked.ai/magazine/psychometric-tests-for-recruitment-the-pros-cons/">https://www.picked.ai/magazine/psychometric-tests-for-recruitment-the-pros-cons/</a>&gt;</p></body>
-<p>flickr, 2022. "Man and woman on a Malvern Star abreast tandem bicycle, c. 1930s, by Sam Hood",n.d, viewed 19 September 2022/ <p>
+<p>flickr, 2022. "Man and woman on a Malvern Star abreast tandem bicycle, c. 1930s, by Sam Hood",n.d, viewed 19 September 2022./<p>
 <p><a href="https://flickr.com/photos/29454428@N08/5164868803">https://flickr.com/photos/29454428@N08/5164868803</a></p>
 </html>
 
