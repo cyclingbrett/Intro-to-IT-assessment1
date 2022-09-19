@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <body>
 <p>Introduction to Information Technology</p>
